@@ -34,7 +34,7 @@
 * ***Courses***
     * Harvard's CS50: Introduction to Computer Science on [edX](https://cs50.harvard.edu/x/2021/) (2021)
     * The Rolling Scopes School. JS / Frontend Development Course. Preparatory stage. December 2021 - February 2022. **[view Certificate](https://app.rs.school/certificate/hyt0hs99)**
-    * The Rolling Scopes School. JS / Frontend Development Course. March 2022 - May 2022. **(in progress)**
+    * The Rolling Scopes School. JS / Frontend Development Course. March 2022 - May 2022. **(in progress: currently placed 1st)**
 ----
 
 ### Languages
