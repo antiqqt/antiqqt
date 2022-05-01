@@ -2,6 +2,7 @@
 ----
 
 ### Contact information
+* ***Age:*** 22 
 * ***Location:*** St.Petersburg, Russia
 * ***Email:*** antonpomogaev@gmail.com
 * ***Telegram:*** [antiqqz](https://t.me/antiqqz)
@@ -13,6 +14,7 @@
 * SCSS / PostCSS / LESS 
 * Javascript (ES6+)
 * Webpack
+* BEM
 * Git / GitHub
 * Figma 
 * C, Python *(basic knowledge)*
