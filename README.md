@@ -26,7 +26,8 @@
 ----
 
 ### Recent projects:
-* [Tic-tac-toe](https://antiqqt.github.io/Stage0/tic-tac-toe/)
+* [Virtual keyboard](https://antiqqt.github.io/virtual-keyboard/dist/)
+* [Tic-tac-toe game](https://antiqqt.github.io/Stage0/tic-tac-toe/)
 * [Shelter landing page](https://rolling-scopes-school.github.io/antiqqt-JSFE2022Q1/shelter/pages/main/)
 ----
 
