@@ -13,6 +13,7 @@
 * HTML / CSS
 * SCSS / PostCSS / LESS 
 * Javascript (ES6+)
+* Node.js
 * Webpack
 * BEM
 * Git / GitHub
