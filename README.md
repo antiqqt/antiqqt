@@ -15,10 +15,7 @@
 * Javascript (ES6+)
 * Node.js
 * Webpack
-* BEM
-* Git / GitHub
-* Figma 
-* C, Python *(basic knowledge)*
+* Git
 ----
 
 ### CodeWars:
