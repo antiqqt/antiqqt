@@ -2,7 +2,6 @@
 ----
 
 ### Contact information
-* ***Age:*** 23 
 * ***Location:*** St.Petersburg, Russia
 * ***Email:*** antonpomogaev@gmail.com
 * ***Telegram:*** [antiqqz](https://t.me/antiqqz)
