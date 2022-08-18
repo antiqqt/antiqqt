@@ -2,7 +2,7 @@
 ----
 
 ### Contact information
-* ***Age:*** 22 
+* ***Age:*** 23 
 * ***Location:*** St.Petersburg, Russia
 * ***Email:*** antonpomogaev@gmail.com
 * ***Telegram:*** [antiqqz](https://t.me/antiqqz)
@@ -39,6 +39,6 @@
 ----
 
 ### Languages
-* ***English*** - Upper-intermediate/Advanced (B2 Certificate)
+* ***English*** - Advanced
 * ***French*** - Intermediate
 * ***Russian*** - Native
