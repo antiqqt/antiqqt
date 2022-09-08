@@ -14,7 +14,8 @@
 * Typescript / Javascript (ES6+)
 * React
 * HTML / CSS (SCSS) / Tailwind
-* Webpack 5
+* Webpack
+* ESLint
 * Git
 ----
 
@@ -25,11 +26,11 @@
 
 * #### [Async Race](https://rolling-scopes-school.github.io/antiqqt-JSFE2022Q1/async-race/dist/) ####
      * **Tech stack**: Typescript, Tailwind. MVC-based structure.
-     * [Description and requirements]()
+     * [Description and requirements](https://github.com/antiqqt/RSS-Tasks-Stages-1-2/pull/3)
 
 * #### [Online Store](https://rolling-scopes-school.github.io/antiqqt-JSFE2022Q1/online-store/dist/) ####
      * **Tech stack**: Typescript, Tailwind
-     * [Description and requirements]()
+     * [Description and requirements](https://github.com/antiqqt/RSS-Tasks-Stages-1-2/pull/4)
 
 * #### [Virtual keyboard](https://antiqqt.github.io/virtual-keyboard/dist/) ####
      * **Tech stack**: Vanilla JS, SCSS
