@@ -18,7 +18,7 @@
 * Git
 ----
 
-### Пет-проекты:
+### Проекты:
 * #### [RS Lang](https://rss-team56-2022.netlify.app/) ####
      * **Стек технологий**: React, Typescript, Tailwind.
      * [Описание проекта и детали задания](https://github.com/antiqqt/rslang/pull/21)
