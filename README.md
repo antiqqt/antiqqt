@@ -1,5 +1,4 @@
 ## Frontend-developer
-----
 
 ### General
 * ***Age:*** 23
