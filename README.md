@@ -1,16 +1,15 @@
-## Frontend-developer
+### Frontend-разработчик
 
-### General
-* ***Age:*** 23
-* ***Location:*** St.Petersburg, Russia
+* **Возраст:** 23
+* **Локация:** Санкт-Петербург, Россия
 ----
 
-### Contacts
-* ***Email:*** antonpomogaev@gmail.com
-* ***Telegram:*** [antiqqz](https://t.me/antiqqz)
+### Контакты
+* **Email:** antonpomogaev@gmail.com
+* **Telegram:** [antiqqz](https://t.me/antiqqz)
 ----
 
-### Skills
+### Навыки
 * Typescript / Javascript (ES6+)
 * React
 * HTML / CSS (SCSS) / Tailwind
@@ -19,27 +18,27 @@
 * Git
 ----
 
-### Projects:
+### Пет-проекты:
 * #### [RS Lang](https://rss-team56-2022.netlify.app/) ####
-     * **Tech stack**: React, Typescript, Tailwind
-     * [Description and requirements](https://github.com/antiqqt/rslang/pull/21)
+     * **Стек технологий**: React, Typescript, Tailwind
+     * [Описание проекта и детали задания](https://github.com/antiqqt/rslang/pull/21)
 
 * #### [Async Race](https://rolling-scopes-school.github.io/antiqqt-JSFE2022Q1/async-race/dist/) ####
-     * **Tech stack**: Typescript, Tailwind. MVC-based structure.
-     * Clone and install [this api](https://github.com/mikhama/async-race-api) to use it
-     * [Description and requirements](https://github.com/antiqqt/RSS-Tasks-Stages-1-2/pull/3)
+     * **Стек технологий**: Typescript, Tailwind. MVC-based structure.
+     * Клонируйте и установите [этот АPI](https://github.com/mikhama/async-race-api) для корректной работы приложения
+     * [Описание проекта и детали задания](https://github.com/antiqqt/RSS-Tasks-Stages-1-2/pull/3)
 
 * #### [Online Store](https://rolling-scopes-school.github.io/antiqqt-JSFE2022Q1/online-store/dist/) ####
-     * **Tech stack**: Typescript, Tailwind
-     * [Description and requirements](https://github.com/antiqqt/RSS-Tasks-Stages-1-2/pull/4)
+     * **Стек технологий**: Typescript, Tailwind
+     * [Описание проекта и детали задания](https://github.com/antiqqt/RSS-Tasks-Stages-1-2/pull/4)
 
 * #### [Virtual keyboard](https://antiqqt.github.io/virtual-keyboard/dist/) ####
-     * **Tech stack**: Vanilla JS, SCSS
-     * [Description and requirements](https://github.com/antiqqt/virtual-keyboard/pull/1)
+     * **Стек технологий**: Vanilla JS, SCSS
+     * [Описание проекта и детали задания](https://github.com/antiqqt/virtual-keyboard/pull/1)
 
 * #### [Shelter landing page](https://rolling-scopes-school.github.io/antiqqt-JSFE2022Q1/shelter/pages/main/) ####
-     * **Tech stack**: Vanilla JS, SCSS
-     * [Description and requirements](https://github.com/antiqqt/Stage1/blob/main/README.md#shelter-landing-page)
+     * **Стек технологий**: Vanilla JS, SCSS
+     * [Описание проекта и детали задания](https://github.com/antiqqt/Stage1/blob/main/README.md#shelter-landing-page)
 
 ----
 ### CodeWars:
@@ -47,17 +46,16 @@
 
 ----
 
-### Education
-* ***Saint Petersburg State University***
-    * International relations
+### Образование
+* ***Санкт-Петербургский Государственный Университет***
+    * Международные отношения, бакалавр
 
-* ***Courses***
-    * Harvard's CS50: Introduction to Computer Science on [edX](https://cs50.harvard.edu/x/2021/) (2021)
-    * The Rolling Scopes School. JS / Frontend Development Course. Preparatory stage. December 2021 - February 2022. **[view Certificate](https://app.rs.school/certificate/hyt0hs99)**
-    * The Rolling Scopes School. JS / Frontend Development Course. March 2022 - September 2022. **(in progress)**
+* ***Курсы***
+    * Harvard's CS50: Introduction to Computer Science на [edX](https://cs50.harvard.edu/x/2021/) (2021)
+    * The Rolling Scopes School. JS / Frontend Development Course. Подготовительный этап. Декабрь 2021 - Февраль 2022. **[Открыть сертификат](https://app.rs.school/certificate/hyt0hs99)**
+    * The Rolling Scopes School. JS / Frontend Development Course. Основной курс. Март 2022 - Сентябрь 2022. **(В процессе)**
 ----
 
-### Languages
-* ***English*** - Advanced
-* ***French*** - Intermediate
-* ***Russian*** - Native
+### Языки
+* **Английский** - Advanced
+* **Французский** - Intermediate
