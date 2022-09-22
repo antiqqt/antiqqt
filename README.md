@@ -34,4 +34,3 @@
     * Harvard's CS50: Introduction to Computer Science на [edX](https://cs50.harvard.edu/x/2021/) (2021)
     * The Rolling Scopes School. JS / Frontend Development Course. Подготовительный этап. Декабрь 2021 - Февраль 2022. **[Открыть сертификат](https://app.rs.school/certificate/hyt0hs99)**
     * The Rolling Scopes School. JS / Frontend Development Course. Основной курс. Март 2022 - Сентябрь 2022. **[Открыть сертификат](https://app.rs.school/certificate/zs99cp2w)**
-----
