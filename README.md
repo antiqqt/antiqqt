@@ -19,18 +19,3 @@
 * #### [Shelter landing page](https://rolling-scopes-school.github.io/antiqqt-JSFE2022Q1/shelter/pages/main/) ####
      * **Стек технологий**: Vanilla JS, SCSS.
      * [Описание проекта и детали задания](https://github.com/antiqqt/RSS-Tasks-Stages-1-2/pull/2)
-
-----
-### CodeWars:
-![CodeWars](https://www.codewars.com/users/antiqqt/badges/large)
-
-----
-
-### Образование
-* **Санкт-Петербургский Государственный Университет**
-    * Международные отношения, бакалавр
-
-* **Курсы**
-    * Harvard's CS50: Introduction to Computer Science на [edX](https://cs50.harvard.edu/x/2021/) (2021)
-    * The Rolling Scopes School. JS / Frontend Development Course. Подготовительный этап. Декабрь 2021 - Февраль 2022. **[Открыть сертификат](https://app.rs.school/certificate/hyt0hs99)**
-    * The Rolling Scopes School. JS / Frontend Development Course. Основной курс. Март 2022 - Сентябрь 2022. **[Открыть сертификат](https://app.rs.school/certificate/zs99cp2w)**
