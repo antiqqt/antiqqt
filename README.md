@@ -1,24 +1,4 @@
-### Frontend-разработчик
-
-* **Возраст:** 23
-* **Локация:** Санкт-Петербург, Россия
-----
-
-### Контакты
-* **Email:** antonpomogaev@gmail.com
-* **Telegram:** [antiqqz](https://t.me/antiqqz)
-----
-
-### Навыки
-* Typescript / Javascript (ES6+)
-* React
-* HTML / CSS (SCSS) / Tailwind
-* Webpack
-* ESLint
-* Git
-----
-
-### Проекты:
+### Мои проекты:
 * #### [RS Lang](https://rss-team56-2022.netlify.app/) ####
      * **Стек технологий**: React, Typescript, Tailwind.
      * [Описание проекта и детали задания](https://github.com/antiqqt/rslang/pull/21)
@@ -55,7 +35,3 @@
     * The Rolling Scopes School. JS / Frontend Development Course. Подготовительный этап. Декабрь 2021 - Февраль 2022. **[Открыть сертификат](https://app.rs.school/certificate/hyt0hs99)**
     * The Rolling Scopes School. JS / Frontend Development Course. Основной курс. Март 2022 - Сентябрь 2022. **[Открыть сертификат](https://app.rs.school/certificate/zs99cp2w)**
 ----
-
-### Языки
-* **Английский** - Advanced
-* **Французский** - Intermediate
