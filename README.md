@@ -20,10 +20,12 @@
      * [Репозиторий](https://github.com/antiqqt/virtual-keyboard)
      * [Описание проекта](https://github.com/antiqqt/virtual-keyboard/pull/1)
 
+<!---
 * #### [Shelter landing page](https://rolling-scopes-school.github.io/antiqqt-JSFE2022Q1/shelter/pages/main/) ####
      * **Стек технологий**: Vanilla JS, SCSS.
      * [Репозиторий](https://github.com/antiqqt/RSS-Tasks-Stages-1-2/tree/main/shelter)
      * [Описание проекта](https://github.com/antiqqt/RSS-Tasks-Stages-1-2/pull/2)
+-->  
 
 * #### [Tic-tac-toe](https://antiqqt.github.io/Stage0/tic-tac-toe/) ####
      * **Стек технологий**: Vanilla JS, SCSS.
