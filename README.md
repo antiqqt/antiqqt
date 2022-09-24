@@ -6,7 +6,7 @@
 
 * #### [Async Race](https://rolling-scopes-school.github.io/antiqqt-JSFE2022Q1/async-race/dist/) ####
      * **Стек технологий**: Typescript, Tailwind. MVC-based structure.
-     * Клонируйте и установите [этот АPI](https://github.com/mikhama/async-race-api) для корректной работы приложения
+     * Локально запустите [этот АPI](https://github.com/mikhama/async-race-api) для корректной работы приложения
      * [Репозиторий](https://github.com/antiqqt/RSS-Tasks-Stages-1-2/tree/async-race)
      * [Описание проекта](https://github.com/antiqqt/RSS-Tasks-Stages-1-2/pull/3)
 
