@@ -19,3 +19,7 @@
 * #### [Shelter landing page](https://rolling-scopes-school.github.io/antiqqt-JSFE2022Q1/shelter/pages/main/) ####
      * **Стек технологий**: Vanilla JS, SCSS.
      * [Описание проекта и детали задания](https://github.com/antiqqt/RSS-Tasks-Stages-1-2/pull/2)
+
+_____
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=antiqqt&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
