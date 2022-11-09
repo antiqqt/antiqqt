@@ -1,3 +1,4 @@
+<!---
 ### Мои проекты:
 * #### [RS Lang](https://rss-team56-2022.netlify.app/) ####
      * **Стек технологий**: React, Typescript, Tailwind.
@@ -25,12 +26,11 @@
      * [Репозиторий](https://github.com/antiqqt/RSS-Tasks-Stages-1-2/tree/async-race)
      * [Описание проекта](https://github.com/antiqqt/RSS-Tasks-Stages-1-2/pull/3)
      
-<!---
 * #### [Shelter landing page](https://rolling-scopes-school.github.io/antiqqt-JSFE2022Q1/shelter/pages/main/) ####
      * **Стек технологий**: Vanilla JS, SCSS.
      * [Репозиторий](https://github.com/antiqqt/RSS-Tasks-Stages-1-2/tree/main/shelter)
      * [Описание проекта](https://github.com/antiqqt/RSS-Tasks-Stages-1-2/pull/2)
--->  
 _____
+--> 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=antiqqt&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
